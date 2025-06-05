@@ -1,0 +1,21 @@
+{
+  "api": {
+    "baseUrl": "https://api.exchangerate-api.com/v4/latest",
+    "timeout": 10000
+  },
+  "app": {
+    "name": "Currency Converter",
+    "version": "1.0.0",
+    "defaultCurrency": "USD",
+    "updateInterval": 3600000
+  },
+  "theme": {
+    "primary": "#007AFF",
+    "secondary": "#FFD700",
+    "background": "#f5f5f5",
+    "text": {
+      "primary": "#333333",
+      "secondary": "#666666"
+    }
+  }
+} 
